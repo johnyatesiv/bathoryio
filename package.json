@@ -4,6 +4,7 @@
   "description": "",
   "main": "app.js",
   "scripts": {
+    "start": "npm install; node app.js",
     "test": "mocha test/acceptance"
   },
   "repository": {
